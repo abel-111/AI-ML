@@ -1,13 +1,23 @@
 # AI-ML Internship Projects
 
-This repository contains projects completed during a 5-day AI/ML internship.
+This repository contains projects completed during my AI/ML internship.
 
 ## Projects
 
-### Day 2 - Data Preprocessing
-- Missing value handling
-- Outlier detection
-- Feature transformation
-- Encoding techniques
+### 1. Beer Servings Project
+- Data Preprocessing
+- Missing Value Handling
+- Outlier Detection
+- Feature Encoding
+- Linear Regression
 
-More projects will be added as the internship progresses.
+### 2. Dataset 2 Project
+- Add project description here
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn

@@ -1,21 +1,24 @@
-# Data Preprocessing Project
+# Beer Servings Project
 
 ## Objective
-Perform preprocessing on the Beer Servings dataset.
+Analyze and preprocess the Beer Servings dataset and build a Linear Regression model.
 
 ## Tasks Performed
 
-- Data loading
-- Data inspection
-- Histogram visualization
-- Missing value handling
-- Log transformation
-- Outlier detection using IQR
+### Data Preprocessing
+- Data Inspection
+- Missing Value Handling
+- Log Transformation
+- Outlier Detection using IQR
 - Label Encoding
 - One-Hot Encoding
 
-## Libraries Used
+### Machine Learning
+- Train-Test Split
+- Linear Regression Model
+- R² Score Evaluation
 
+## Libraries Used
 - Pandas
 - NumPy
 - Matplotlib
