@@ -66,6 +66,23 @@ Classification project that predicts whether a user will purchase a product base
 * Feature Scaling
 * Classification Modeling
 * Model Evaluation
+### 5. Mall Customer Segmentation
+
+Unsupervised Machine Learning project that groups customers into distinct segments based on demographic information and spending behavior.
+
+**Algorithms Used**
+
+* K-Means Clustering
+
+**Skills Used**
+
+* Data Exploration
+* Outlier Detection
+* Label Encoding
+* Elbow Method
+* Customer Segmentation
+* Cluster Visualization
+* Unsupervised Learning
 
 ## Technologies Used
 
